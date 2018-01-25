@@ -1,0 +1,12 @@
+.env
+.idea
+.git
+.DS_Store
+/*.log
+/.config/
+/node_modules/
+/coverage/
+/lib/
+/dist/
+/public/style/themes
+/public/style/semantic.min.css
